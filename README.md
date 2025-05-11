@@ -1,6 +1,7 @@
 # jail o party
 
-![Screenshot 2025-05-11 135705](https://github.com/user-attachments/assets/ec67b2ce-137c-45fe-bfbe-1639f8e8fd17)
+![image](https://github.com/user-attachments/assets/59800047-232d-4a56-b988-d675c31e97f5)
+
 
 
 ![image](https://github.com/user-attachments/assets/92075798-34ff-46c9-8eb6-ca9590db2586)
